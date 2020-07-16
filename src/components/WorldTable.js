@@ -23,6 +23,12 @@ class WorldTable extends React.Component {
           root: {
             backgroundColor: "none",
           },
+          cellStackedSmall: {
+            paddingBottom: "2rem",
+          },
+          responsiveStackedSmall: {
+            paddingBottom: "2rem",
+          },
         },
       },
     });
